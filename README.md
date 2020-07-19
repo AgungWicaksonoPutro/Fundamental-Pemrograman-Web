@@ -11,5 +11,5 @@ Dokumentasi project yang diupload untuk mendapatkan sertifikat Belajar Dasar Pem
 - Menerapkan JavaScript dalam memanipulasi DOM.
 
 ## Screenshoot
-![](../master/Screenshoot/Screenshoot Supertunitas.png)
-![](../master/Screenshoot/Screenshoot Supertunitas Responsive.png)
+![](../master/Screenshoot/Screenshoot-Supertunitas.png)
+![](../master/Screenshoot/Screenshoot-Supertunitas.png)
