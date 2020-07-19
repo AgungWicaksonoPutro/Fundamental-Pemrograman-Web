@@ -13,5 +13,5 @@ Dokumentasi project yang diupload untuk mendapatkan sertifikat Belajar Dasar Pem
 ## Screenshoot
 - Tampil di Dekstop
 ![Dekstop](../master/Screenshoot/Screenshoot-Supertunitas.png)
-- Tampil di Smartphone
+- Tampil di Smartphone <br>
 ![Smartphone](../master/Screenshoot/Screenshoot-Supertunitas-Responsive.png)
